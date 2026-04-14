@@ -1,0 +1,40 @@
+\onehalfspacing
+\section{Further Analysis}\label{sec:furthernanalysis}
+\vspace{-0.5cm}
+
+\subsection{Mechanisms}\label{sec:heterogeneity}
+\vspace{-0.3cm}
+\justifying
+As reviewed, the heterogeneity of ... .
+
+\subsubsection{Mechanism 1}\label{sec:mech1}
+\vspace{-0.3cm}
+\justifying
+\textit{Dep Var 1/2/3}: After ... .
+
+
+\subsubsection{Mechanism 2}\label{sec:mech2}
+\vspace{-0.3cm}
+\justifying
+\textit{Dep Var 1/2/3}: The coefficients for ... .
+
+
+\subsection{Further Robustness Checks}\label{sec:robustextra}
+\vspace{-0.3cm}
+\justifying
+Text starts here
+
+\subsubsection{Robustness 1}\label{sec:rob1}
+\vspace{-0.3cm}
+\justifying
+\textit{Dep Var 1/2/3}: With the addition of ... .
+
+
+\subsubsection{Robustness 2}\label{sec:rob2}
+\vspace{-0.3cm}
+\justifying
+\textit{Dep Var 1/2/3}: There are some remarkable differences after ... .
+
+
+
+% End of this section
