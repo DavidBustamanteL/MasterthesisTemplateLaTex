@@ -1,0 +1,33 @@
+\onehalfspacing
+\section{Descriptive Analysis}\label{sec:descriptive}
+\vspace{-0.5cm}
+Start here with some descriptive analysis.
+
+\subsection{Subtopic1}\label{sec:desc1}
+\vspace{-0.3cm}
+\justifying
+Adding some figures \textbf{\hyperref[fig:DEPPP]{Figure 1}}.
+
+\begin{figure}[H]    % important for where you need the elements located
+    \centering
+    \captionsetup{justification = raggedright, singlelinecheck = false}
+    \includegraphics[width = \columnwidth]{images/DEGdpPPP.png}
+    \caption{\textbf{Name of the figure}}
+    \label{fig:DEPPP}
+\end{figure}
+
+
+\subsection{Subtopic2}\label{sec:desc2}
+\vspace{-0.3cm}
+\justifying
+Continue...
+
+
+\subsection{Subtopic3}\label{sec:desc3}
+\vspace{-0.3cm}
+\justifying
+Continue...
+
+
+
+% End of the section.
