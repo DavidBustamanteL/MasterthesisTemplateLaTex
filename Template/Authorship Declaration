@@ -1,0 +1,29 @@
+\onehalfspacing
+\section*{Declaration of Authorship}
+\addcontentsline{toc}{section}{Declaration of Authorship}
+\vspace{1cm}
+
+\raggedright
+\justifying
+\noindent
+I hereby declare that I have not used any sources or aids (including AI-based applications or tools) other than those specified.
+All verbatim or analogous citations and quotations are identified and verified. I confirm that I have not used any aids that the
+examiner has explicitly excluded. I have documented the AI tools used in the section “Use of AI tools”. In addition, I have listed
+all LLM-generated prompts and outputs relevant to the task in the above-mentioned section. 
+\vspace{0.5cm}
+
+\noindent
+I further declare that I have not submitted this paper, in part or whole, to any other chair or institution in order to obtain a grade.
+I am aware that a violation of the above points has consequences under the examination law and may, in particular, result in the coursework
+and examination being assessed as “failed”. Enrolment can be revoked for up to two years if students cheat twice or more frequently in 
+examinations (Section 69 (4) and (5) HochSchG). 
+
+
+\vspace{1.5cm}
+
+\begin{flushright}
+    \makebox[0.5\textwidth]{\hrulefill} \\ % Create a line for the signature
+    \makebox[0.5\textwidth]{\textbf{Your Name}} \\ % Center the label for the signature below the line
+    \makebox[0.5\textwidth]{\textbf{Student ID:} {XXX}} \\
+    \makebox[0.5\textwidth]{Place, Date}
+\end{flushright}
