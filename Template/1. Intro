@@ -1,0 +1,24 @@
+\onehalfspacing
+\section{Introduction}\label{sec:intro}
+\vspace{-0.5cm}
+
+\justifying
+Start your intro here
+
+Citing multiple authors' works like this \citep[see][]{Brüderl2024, Huinink2011, Kreyenfeld2013} or a single one \citep[refer to][]{Schneider2021}.
+However, citing the author in the text appears as follows: \cite{Bozoyan2021}. Furthermore, to cite a specific page, you will need: \citep[see][p. XX]{Goldin2024}.
+
+Add as many paragraphs as you need.
+
+Referring to different sections in texts: This thesis comprises eight sections, commencing with this introduction, and is structured as follows. 
+\textbf{\hyperref[sec:literature]{Section 2}} provides a literature review based on ... . Moreover, \textbf{\hyperref[sec:empiricaldata]{Section 3}}
+delves in ... . A descriptive analysis is performed in \textbf{\hyperref[sec:descriptive]{Section 4}}, aiming to identify trends and relationships in
+the data before conducting the subsequent econometric methods described in \textbf{\hyperref[sec:methodology]{Section 5}}. Furthermore,
+\textbf{\hyperref[sec:results]{Section 6}} proceeds to interpret the results from the base models, whereas \textbf{\hyperref[sec:furthernanalysis]{Section 7}}
+provides further analysis, such as the mechanisms and extra robustness checks. Finally, this thesis concludes with \textbf{\hyperref[sec:discussion]{Section 8}},
+which further discusses the limitations and sets the stage for future research on the topic.
+
+
+
+
+% End of the Intro
