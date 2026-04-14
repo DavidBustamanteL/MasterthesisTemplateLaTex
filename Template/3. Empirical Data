@@ -1,0 +1,71 @@
+\onehalfspacing
+\section{Empirical Data}\label{sec:empiricaldata}
+\vspace{-0.5cm}
+
+\subsection{Name of your Dataset}\label{sec:namedata}
+\vspace{-0.3cm}
+\justifying
+E.g., this thesis analyses the XX waves of the YY dataset... 
+
+
+\subsection{DF's Inconveniences}\label{sec:inconvenience}
+\vspace{-0.3cm}
+\justifying
+As noted in the introduction, this subsection describes any inconveniences encountered during the data preparation ... .
+
+
+\subsection{Dependent Variables}\label{sec:dependent}
+\vspace{-0.3cm}
+\justifying
+Describe your dependent vars in a paragraph format:
+\textit{Dep Var 1}: I use ... .
+
+\textit{Dep Var 2}: More so ... .
+
+\textit{Dep Var 3}: Continue ... .
+
+
+\subsection{Independent Variables}\label{sec:independent}
+\vspace{-0.3cm}
+\justifying
+In my thesis, having ... .
+
+Starting a table looks, e.g., so:
+
+\setlength{\tabcolsep}{5pt}
+\begin{table}[htbp]
+\centering
+\captionsetup{justification = raggedright, singlelinecheck = false, skip = 2pt}
+\caption{\textbf{Sample Size}}\label{tab:sample_size}
+\begin{tabular}{lccccccccc} % Extend the number of columns to accommodate side-by-side panels
+\toprule
+                    & \multicolumn{4}{c}{Panel A} 
+                    & \multicolumn{4}{c}{Panel B} \\
+                    \cmidrule(lr){2-5} \cmidrule(lr){6-9} &
+                    \multicolumn{2}{c}{Females} & \multicolumn{2}{c}{Males} & \multicolumn{2}{c}{Females} & \multicolumn{2}{c}{Males} \\
+                    \cmidrule(lr){2-3} \cmidrule(lr){4-5} \cmidrule(lr){6-7} \cmidrule(lr){8-9}
+                    & N & \% & N & \% & N & \% & N & \% \\
+\midrule
+\textbf{Category1:} \\
+Dep Var 1 &2,444 &47.64 &2,218 &43.16  &4.899 &49.06 &4.042 &40.48\\
+\textbf{Category2:} \\
+Dep Var 2 &2,544 &49.50 &2,337 &45.48 &5,232 &52.40 &4,305 &43.11\\
+\textbf{Category3:}\\
+Dep Var 3 &2,651 &51.59 &2,470 &48.06 &5,448 &54.56 &4,529 &45.36\\
+\midrule
+Observations &2,653 &51.75 &2,474 &48.25 &5,451 &54.59 &4,534 &45.41\\
+\bottomrule
+\end{tabular}
+\parbox{\textwidth}{\raggedright
+\vspace{0.5em}
+\textbf{Source}: ADD YOUR SOURCE.
+\newline\textbf{Notes}: Add Notes if needed. e.g., your p-value significant starts explained. \\
+}
+\end{table}
+
+This is how an element from the appendix can be referenced (see \textbf{\hyperref[tab:appendix-A1]{Appendix A1}}).
+
+\subsection{Final Samples}\label{sec:finalsample}
+\vspace{-0.3cm}
+\justifying
+Your data after all the cleaning, manipulation, and transformation is done.
