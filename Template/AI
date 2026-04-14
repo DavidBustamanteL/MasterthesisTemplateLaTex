@@ -1,0 +1,5 @@
+\section*{Use of AI Tools}
+\addcontentsline{toc}{section}{Use of AI Tools} % Adds "Use of AI" to the main Table of Contents
+\raggedright
+
+List not only all the AI tools you use for the development of your thesis, but also a copy of the prompts and outputs you received from those engines!
