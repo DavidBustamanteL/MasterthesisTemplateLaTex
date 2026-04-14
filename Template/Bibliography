@@ -1,0 +1,60 @@
+@misc{Brüderl2024,
+  author        = {Br{\"u}derl, Josef and Drobni{\'c}, Sonja and Hank, Karsten and Neyer, Franz J. and Walper, Sabine and Wolf, Christof and Alt, Philipp and Bauer, Irina and B{\"o}hm, Simon and Borschel, Elisabeth and Bozoyan, Christiane and Christmann, Pablo and Edinger, R{\"u}diger and Eigenbrodt, Felicitas and Garrett, Madison and Geissler, Svenja and Gonzalez Avil{\'e}s, Tita and Gr{\"o}pler, Nicolai and Gummer, Tobias and Hajek, Kristin and Herzig, Michel and Lorenz, Renate and Lutz, Katharina and Peter, Timo and Preetz, Richard and Reim, Julia and Sawatzki, Barbara and Schmiedeberg, Claudia and Sch{\"u}tze, Philipp and Schumann, Nina and Th{\"o}nnissen, Carolin and Timmermann, Katharina and Wetzel, Martin},
+  title         = {{The German Family Panel (pairfam)}},
+  year          = {2024},
+  howpublished  = {GESIS, Cologne. ZA5678 Data file Version 14.2.0},
+  doi           = {10.4232/pairfam.5678.14.2.0}
+}
+
+@article{Huinink2011,
+  author        = {Johannes Huinink and Josef Brüderl and Bernhard Nauck and Sabine Walper and Laura Castiglioni and Michael Feldhaus},
+  title         = {{Panel analysis of intimate relationships and family dynamics (pairfam): conceptual framework and design}},
+  journal       = {Zeitschrift für Familienforschung},
+  volume        = {23},
+  number        = {1},
+  pages         = {77--101},
+  year          = {2011},
+  issn          = {1437-2940},
+  howpublished  = {\url{https://nbn-resolving.org/urn:nbn:de:0168-ssoar-376463}}
+}
+
+@misc{Kreyenfeld2013,
+  author        = {Michaela Kreyenfeld and Joshua Goldstein and Rainer Walke and Heike Trappe and Johannes Huinink},
+  title         = {{Demographic Differences in Life Course Dynamics in Eastern and Western Germany (DemoDiff)}},
+  year          = {2013},
+  howpublished  = {GESIS Data Archive, Cologne. ZA5684 Data file Version 3.1.0},
+  doi           = {10.4232/demodiff.5684.3.1.0}
+}
+
+
+@article{Schneider2021,
+  author        = {Schneider, Norbert F. and Bujard, Martin and Wolf, Christof and Gummer, Tobias and Hank, Karsten and Neyer, Franz J.},
+  title         = {{Family Research and Demographic Analysis (FReDA): Evolution, Framework, Objectives, and Design of “The German Family Demography Panel Study”}},
+  journal       = {Comparative Population Studies},
+  volume        = {46},
+  year          = {2021},
+  place         = {Wiesbaden, Germany},
+  howpublished  = {\url{https://comparativepopulationstudies.de/index.php/CPoS/article/view/438}},
+  doi           = {10.12765/CPoS-2021-06}
+}
+
+@article{Bozoyan2021,
+  author  = {Bozoyan, Christiane and Herzig, Michel and Preetz, Richard and Schmiedeberg, Claudia},
+  title   = {{Effects of Survey Design Modifications in pairfam Wave 12 due to the COVID-19 Pandemic}},
+  journal = {pairfam Technical Paper},
+  year    = {2021},
+  volume  = {16},
+  doi     = {10.5282/ubm/epub.91998}
+}
+
+@article{Goldin2024,
+    author = {Goldin, Claudia and Kerr, Sari Pekkala and Olivetti, Claudia},
+    title = {The other side of the mountain: women’s employment and earnings over the family cycle},
+    journal = {Oxford Open Economics},
+    volume = {3},
+    number = {1},
+    pages = {i323-i334},
+    year = {2024},
+    issn = {2752-5074},
+    doi = {10.1093/ooec/odad012}
+}
