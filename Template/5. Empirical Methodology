@@ -1,0 +1,30 @@
+\onehalfspacing
+\section{Empirical Methodology}\label{sec:methodology}
+\vspace{-0.3cm}
+As briefly discussed in \textbf{\hyperref[sec:dependent]{Subsection 3.3}}, this thesis employs ... :
+
+
+\subsection{Model 1}\label{sec:model1}
+\vspace{-0.3cm}
+\justifying
+In the first empirical model, I define $Y_{it}$ as the dependent variable for individual $i$ at time $t$. For this model, the dependent variables are the \textit{Dep Var 1}, ... :
+
+\vspace{-0.3cm}
+\begin{equation}
+Y_{it} = \alpha_i + \beta_1\text{DepVar1}_{it} + \beta'X'_{it} + \epsilon_{it}
+\tag{1}
+\end{equation}
+
+\noindent
+Moreover, the model incorporates the vector $X'_{it}$, which includes control variables to improve the precision of the estimates ... 
+
+
+\subsection{Model 2}\label{sec:model2}
+\vspace{-0.3cm}
+\justifying
+Analog to above...
+
+
+
+
+% End of this section.
