@@ -1,0 +1,28 @@
+\onehalfspacing
+\section{Base Results}\label{sec:results}
+\vspace{-0.5cm}
+In this section, I focus on the effects of ... .
+
+\subsection{Category 1}\label{sec:cat1}
+\vspace{-0.3cm}
+\justifying
+\textit{Dep Var 1}: In examining the impact of ... .
+
+
+\subsection{Category 2}\label{sec:cat2}
+\vspace{-0.3cm}
+\justifying
+\textit{Dep Var 2}: When exploring the ... .
+
+
+
+\subsection{Category 3}\label{sec:cat3}
+\vspace{-0.3cm}
+\justifying
+\textit{Dep Var 3}: The last outcome of interest is ... .
+
+
+
+
+
+% This section ends here
