@@ -1,0 +1,87 @@
+\addcontentsline{toc}{section}{Appendices} % Adds "Appendices" to the main Table of Contents
+
+% Resetting counters for tables and figures to ensure separate numbering in the appendix
+\setcounter{table}{1}
+\setcounter{figure}{1}
+
+% Prefix table and figure numbers with 'A' to denote Appendix
+\renewcommand{\thetable}{A\arabic{table}}
+\renewcommand{\thefigure}{A\arabic{figure}}
+
+% Redefine the caption command (within) the appendix to not add entries to LoT or LoF
+
+\makeatletter
+\let\oldcaption\caption
+\renewcommand{\caption}[1]{
+    \def\@tempa{figure}
+    \def\@tempb{table}
+    \ifx\@captype\@tempa % Check if it's a figure
+        \oldcaption*{\figurename\ \thefigure: #1}
+        \addcontentsline{appdir}{subsection}{\figurename\ \thefigure\hspace{1em}#1}
+    \else\ifx\@captype\@tempb % Check if it's a table
+        \oldcaption*{\tablename\ \thetable: #1}
+        \addcontentsline{appdir}{subsection}{\tablename\ \thetable\hspace{1em}#1}
+    \fi
+    \fi
+}
+\makeatother
+
+% Commands to add appendix entries; to call these manually if automatic captioning isn't suitable
+\newcommand{\addappendixentry}[1]{
+    \addcontentsline{appdir}{subsection}{\thetable\hspace{1em}#1}
+}
+
+
+\begin{appendices}
+
+% Appendix A1 Descriptive Stats
+\setlength{\tabcolsep}{3pt}
+\renewcommand{\arraystretch}{0.8} % Adjust the factor
+\begin{table}[H]
+\setcounter{table}{1}
+\centering
+\captionsetup{justification = raggedright, singlelinecheck = false, skip = 2pt}
+\caption{\textbf{Descriptive Statistics}}
+\label{tab:appendix-A1}
+\begin{tabular}{lcccc}
+\toprule
+ & \multicolumn{2}{c}{Females} & \multicolumn{2}{c}{Males} \\
+\cmidrule(lr){2-3} \cmidrule(lr){4-5}
+ & Mean & SD & Mean & SD \\
+\midrule
+\textbf{Main Outcomes of Interest:} \\
+Dep Var 1 & 7.80 & (0.62) & 7.82 & (0.69) \\
+Dep Var 2 & 6.88 & (0.75) & 7.44 & (0.75) \\
+Dep Var 3 & 73.66 & (44.06) & 83.77 & (36.88) \\
+\textbf{Background Characteristics:} \\
+Var1 & 24.27 & (42.88) & 44.30 & (49.68) \\
+Var2 & 45.42 & (49.80) & 41.55 & (49.29) \\
+Var3 (\%) & 24.20 & (42.84) & 34.36 & (47.50) \\
+Var4 & 12.46 & (3.34) & 12.65 & (3.21) \\
+\midrule
+Observations & 2,653 &  & 2,474 &  \\
+\bottomrule
+\end{tabular}
+\parbox{\textwidth}{\raggedright
+\vspace{0.5em}
+%\textbf{Notes}: \\
+\textbf{Source}: Add your source.
+}
+\end{table}
+\newpage
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\end{appendices}
