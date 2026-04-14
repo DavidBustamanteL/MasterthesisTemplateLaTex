@@ -1,0 +1,26 @@
+\onehalfspacing
+\section{Literature Review}\label{sec:literature}
+\vspace{-0.5cm}
+\justifying
+Start your literature review here. Note the guidance on correctly citing in the introduction.
+
+\subsection{Subtopic1}\label{sec:litrev1}
+\vspace{-0.3cm}
+\justifying
+Remember, in the case of subsections, always at least two are needed. Otherwise, you do not need them and may proceed to the next section.
+
+\subsection{Subtopic2}\label{sec:litrev2}
+\vspace{-0.3cm}
+\justifying
+Continue...
+
+
+\subsection{Subtopic3}\label{sec:litrev3}
+\vspace{-0.3cm}
+\justifying
+Continue...
+
+
+
+
+% End of this section
