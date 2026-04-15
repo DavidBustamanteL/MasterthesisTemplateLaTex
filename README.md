@@ -1,6 +1,6 @@
 # 📄 Empirical Economics Master Thesis LaTeX Template
 
-This repository provides a **highly detailed LaTeX template** for writing a master’s thesis in **empirical economics**. It is designed to offer both a ready-to-use format and full transparency for those who want to understand or customize the underlying structure.
+This repository provides a **highly detailed LaTeX template** for writing a master’s thesis (As well as bachelor thesis a/o seminars) in **empirical economics**. It is designed to offer both a ready-to-use format and full transparency for those who want to understand or customize the underlying structure.
 
 ---
 
@@ -84,3 +84,5 @@ Suggestions, improvements, and extensions are welcome!
 ---
 
 ## 📜 License
+
+The GNU General Public License v3.0 (GPLv3)
