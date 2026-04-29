@@ -2,6 +2,8 @@
 
 This repository provides a **highly detailed LaTeX template** for writing a master’s thesis (As well as bachelor thesis a/o seminars) in **empirical economics**. It is designed to offer both a ready-to-use format and full transparency for those who want to understand or customize the underlying structure.
 
+The aim are students of the JGU Mainz, nevertheless, feel free to change the formal requirements according to your institution.
+
 ---
 
 ## 📦 Repository Structure
